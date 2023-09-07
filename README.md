@@ -1,2 +1,2 @@
 # My_Portfolio
-It is portfolio website.
+It is a portfolio website.
